@@ -8,6 +8,7 @@ The goal of this Analysis is to use historical data to perform analytics verific
 ## Linear Regression to Predict MPG
 
 ![starts](https://user-images.githubusercontent.com/75961117/120877931-23fd6d00-c587-11eb-8001-dcf5a2eb4791.PNG)
+![start1](https://user-images.githubusercontent.com/75961117/120877953-41323b80-c587-11eb-945a-e2393d88a6bb.PNG)
 
 
 
