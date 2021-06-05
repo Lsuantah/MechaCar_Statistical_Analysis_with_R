@@ -1,6 +1,8 @@
 # MechaCar_Statistical_Analysis
 
+## Objective of the Analysis
 
+The goal of this Analysis is to use historical data to perform analytics verification and validation of automotive features and design for future testing. We will provide visualization of statistical test and interpretation of the results to management.
 
 
 
