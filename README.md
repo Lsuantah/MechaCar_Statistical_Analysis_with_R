@@ -23,3 +23,6 @@ The slope is not considered to be Zero because, slope is a function of R and Sta
 Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
 The model predicted mpg of MechaCar prototypes effectively because we have an R-Square of 71%, which means 71% of the data fits the model.
+
+
+## Summary Statistics on Suspension Coils
