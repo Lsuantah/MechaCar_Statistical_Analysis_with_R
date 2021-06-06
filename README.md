@@ -66,5 +66,31 @@ Lot 3 has a p-value of 0.041 meaning the mean is statistically the same and ther
 
 
 
+## Study Design: MechaCar vs Competition.
+
+Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
+
+## Metrics
+
+•	We will test information on fuel efficiency of MechaCar and compare with competitors to determine miles per gallon, or mpg
+
+
+## The null hypothesis or alternative hypothesis?
+
+•	The null hypothesis is that miles per gallon, or mpg will be consistent across all car manufacturers. The alternative hypothesis s that mpg will not be consistent with at least one manufacturer.
+
+## The statistical test
+
+•	We will use ANOVA analysis for fuel efficiency (mpg) for the same type of cars.
+ANOVA is preferred over t-test and can be useful in testing the means of the continuous numerical variable of fuel efficiency (mpg) across various manufacturer
+
+
+
+## What data is needed
+
+•	We will collect measured mpg data for both MechaCar and competitors. We will increase the sample size to reduce error and improve the confidence interval. 
+
+
+
 
 
