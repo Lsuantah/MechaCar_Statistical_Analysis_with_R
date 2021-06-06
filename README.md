@@ -44,3 +44,7 @@ The Lot_summary shared more details, Lot 1 and Lot 2 are well within the 100 PSI
 
 ## T-Tests on Suspension Coils
 
+
+![sample t-test-1](https://user-images.githubusercontent.com/75961117/120935300-1273ac80-c6d0-11eb-9064-80a8895cc743.PNG)
+
+
