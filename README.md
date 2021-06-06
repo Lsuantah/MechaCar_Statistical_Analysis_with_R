@@ -16,7 +16,9 @@ We are conducting multi-linear regression analysis on MechaCar data. Below is a 
 
 Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
+
 The Vehicle weight, spoiler_angle and AWD provided the most amount of variance to the mpg values.
+
 
 Is the slope of the linear model considered to be zero? Why or why not?
 
