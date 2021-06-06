@@ -44,16 +44,24 @@ The Lot_summary shared more details, Lot 1 and Lot 2 are well within the 100 PSI
 
 ## T-Tests on Suspension Coils
 
+One-sample t-test was conducted to identify any statistical significance difference in the means of different sample data and the population dataset. 
+When we compare the results, it appears Lot 1 and Lot 2 have much bigger p-values of 1 and 0.607, respectively. These p-values is an indication that  there is no statistical difference between the mean and sample dataset. 
+Lot 3 has a p-value of 0.041 meaning the mean is statistically the same and there is no sufficient evidence to reject the null hypothesis.
 
+
+## Sample dataset 
 ![sample t-test-1](https://user-images.githubusercontent.com/75961117/120935300-1273ac80-c6d0-11eb-9064-80a8895cc743.PNG)
 
 
+## Lot1
 ![sample t-test lot 1](https://user-images.githubusercontent.com/75961117/120935328-3931e300-c6d0-11eb-8031-453409d945cd.PNG)
 
 
+## Lot 2
 ![sample t-test -2](https://user-images.githubusercontent.com/75961117/120935350-5ff01980-c6d0-11eb-85c2-e3e222087000.PNG)
 
 
+## Lot3
 ![sample t-test-3](https://user-images.githubusercontent.com/75961117/120935382-844bf600-c6d0-11eb-98fc-d3722f750afe.PNG)
 
 
