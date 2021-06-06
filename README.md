@@ -34,6 +34,8 @@ In this analysis, we created a statistical summary on the Suspension_Coil datase
 
 ![summary total](https://user-images.githubusercontent.com/75961117/120932638-96c03280-c6c4-11eb-8544-c0d239d595d3.PNG)
 
+![Summary lots](https://user-images.githubusercontent.com/75961117/120932665-b48d9780-c6c4-11eb-82d8-ffcf97649c04.PNG)
+
 
 
 When we look at the total_summary data_frame  of the entire production lot, the variance of the coils is 62.29 PSI, which is consistent and within the 100 PSI variance specification.
