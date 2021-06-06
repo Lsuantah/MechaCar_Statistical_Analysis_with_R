@@ -51,4 +51,8 @@ The Lot_summary shared more details, Lot 1 and Lot 2 are well within the 100 PSI
 ![sample t-test lot 1](https://user-images.githubusercontent.com/75961117/120935328-3931e300-c6d0-11eb-8031-453409d945cd.PNG)
 
 
+![sample t-test -2](https://user-images.githubusercontent.com/75961117/120935350-5ff01980-c6d0-11eb-85c2-e3e222087000.PNG)
+
+
+
 
