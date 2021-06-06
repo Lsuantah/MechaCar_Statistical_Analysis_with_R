@@ -32,6 +32,7 @@ The model predicted mpg of MechaCar prototypes effectively because we have an R-
 
 In this analysis, we created a statistical summary on the Suspension_Coil dataset
 
+![summary total](https://user-images.githubusercontent.com/75961117/120932638-96c03280-c6c4-11eb-8544-c0d239d595d3.PNG)
 
 
 
