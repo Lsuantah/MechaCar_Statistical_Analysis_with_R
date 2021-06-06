@@ -31,3 +31,10 @@ The model predicted mpg of MechaCar prototypes effectively because we have an R-
 ## Summary Statistics on Suspension Coils
 
 In this analysis, we created a statistical summary on the Suspension_Coil dataset
+
+
+
+
+When we look at the total_summary data_frame  of the entire production lot, the variance of the coils is 62.29 PSI, which is consistent and within the 100 PSI variance specification.
+The Lot_summary shared more details, Lot 1 and Lot 2 are well within the 100 PSI variance specification with variances of 0.98 and 7.47 respectively. But Lot 3 does not meet the variance specification, showing a larger variance of 170.29. However, the overall lot variance is still within the threshold. 
+
